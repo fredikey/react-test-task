@@ -1,0 +1,52 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="8" width="56" height="40" rx="4" fill="white"/>
+<mask id="mask0_0_2211" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="8" width="56" height="40">
+<rect y="8" width="56" height="40" rx="4" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_2211)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 48H56V8H0V48Z" fill="#30C375"/>
+<rect x="8" y="8" width="8" height="40" fill="#DE414F"/>
+<ellipse cx="12" cy="13.3334" rx="4" ry="2.66667" fill="white"/>
+<mask id="mask1_0_2211" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="8" y="10" width="8" height="6">
+<ellipse cx="12" cy="13.3334" rx="4" ry="2.66667" fill="white"/>
+</mask>
+<g mask="url(#mask1_0_2211)">
+<circle cx="12" cy="13.3333" r="1.33333" fill="#DD404F"/>
+<rect x="8" y="10.6667" width="4" height="2.66667" fill="#FBAF29"/>
+<rect x="12" y="13.3334" width="4" height="2.66667" fill="#FBAF29"/>
+</g>
+<ellipse cx="12" cy="42.6667" rx="4" ry="2.66667" fill="white"/>
+<mask id="mask2_0_2211" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="8" y="40" width="8" height="6">
+<ellipse cx="12" cy="42.6667" rx="4" ry="2.66667" fill="white"/>
+</mask>
+<g mask="url(#mask2_0_2211)">
+<circle cx="12" cy="42.6666" r="1.33333" fill="#DD404F"/>
+<rect x="8" y="40" width="4" height="2.66667" fill="#FBAF29"/>
+<rect x="12" y="42.6667" width="4" height="2.66667" fill="#FBAF29"/>
+</g>
+<ellipse cx="12" cy="29.3334" rx="4" ry="2.66667" fill="#28AE67"/>
+<mask id="mask3_0_2211" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="8" y="26" width="8" height="6">
+<ellipse cx="12" cy="29.3334" rx="4" ry="2.66667" fill="white"/>
+</mask>
+<g mask="url(#mask3_0_2211)">
+<ellipse cx="12" cy="29.3333" rx="2.66667" ry="1.33333" fill="#DD404F"/>
+</g>
+<ellipse cx="12" cy="36" rx="4" ry="1.33333" fill="#28AE67"/>
+<mask id="mask4_0_2211" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="8" y="34" width="8" height="4">
+<ellipse cx="12" cy="36" rx="4" ry="1.33333" fill="white"/>
+</mask>
+<g mask="url(#mask4_0_2211)">
+</g>
+<ellipse cx="12" cy="21.3334" rx="4" ry="2.66667" fill="#FBAF29"/>
+<mask id="mask5_0_2211" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="8" y="18" width="8" height="6">
+<ellipse cx="12" cy="21.3334" rx="4" ry="2.66667" fill="white"/>
+</mask>
+<g mask="url(#mask5_0_2211)">
+<circle cx="12" cy="21.3333" r="1.33333" fill="#DD404F"/>
+<rect x="8" y="18.6667" width="2.66667" height="5.33333" fill="#28AE67"/>
+<rect x="13.3334" y="18.6667" width="2.66667" height="5.33333" fill="#28AE67"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.6453 16.4763C29.172 17.0404 29.2456 17.8814 29.8097 18.3547C30.3738 18.8281 31.2148 18.7545 31.6881 18.1904C32.1615 17.6263 32.0879 16.7853 31.5238 16.312C30.9597 15.8386 30.1187 15.9122 29.6453 16.4763ZM26.1905 21.6453C25.6264 21.1719 24.7853 21.2455 24.312 21.8096C23.8387 22.3737 23.9123 23.2147 24.4764 23.6881C25.0405 24.1614 25.8815 24.0878 26.3548 23.5237C26.8281 22.9596 26.7546 22.1186 26.1905 21.6453ZM23.5238 18.9786C22.9597 18.5053 22.1187 18.5789 21.6453 19.143C21.172 19.7071 21.2456 20.5481 21.8097 21.0214C22.3738 21.4947 23.2148 21.4212 23.6881 20.8571C24.1615 20.293 24.0879 19.452 23.5238 18.9786ZM28.8571 13.6453C28.293 13.1719 27.452 13.2455 26.9787 13.8096C26.5053 14.3737 26.5789 15.2147 27.143 15.6881C27.7071 16.1614 28.5481 16.0878 29.0215 15.5237C29.4948 14.9596 29.4212 14.1186 28.8571 13.6453ZM27.5238 17.6453C26.9597 17.1719 26.1187 17.2455 25.6453 17.8096C25.172 18.3737 25.2456 19.2147 25.8097 19.6881C26.3738 20.1614 27.2148 20.0878 27.6881 19.5237C28.1615 18.9596 28.0879 18.1186 27.5238 17.6453Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.9522 26.901C31.7761 30.0771 26.6266 30.0771 23.4505 26.901C23.1427 26.5933 22.8648 26.267 22.6167 25.9258C25.797 28.2382 30.2748 27.9603 33.1431 25.092C36.0115 22.2236 36.2894 17.7458 33.9769 14.5656C34.3181 14.8137 34.6444 15.0916 34.9522 15.3994C38.1283 18.5755 38.1283 23.7249 34.9522 26.901Z" fill="white"/>
+</g>
+</svg>

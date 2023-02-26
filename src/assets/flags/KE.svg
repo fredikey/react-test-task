@@ -1,0 +1,37 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="8" width="56" height="40" rx="4" fill="white"/>
+<mask id="mask0_0_889" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="8" width="56" height="40">
+<rect y="8" width="56" height="40" rx="4" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_889)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 18.6667H56V8H0V18.6667Z" fill="#262626"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 48H56V37.3333H0V48Z" fill="#018301"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 37.3333H56V18.6667H0V37.3333Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 34.6667H56V21.3333H0V34.6667Z" fill="#DC0808"/>
+<ellipse cx="28" cy="28" rx="6.66667" ry="13.3333" fill="#BC0000"/>
+<mask id="mask1_0_889" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="21" y="14" width="14" height="28">
+<ellipse cx="28" cy="28" rx="6.66667" ry="13.3333" fill="white"/>
+</mask>
+<g mask="url(#mask1_0_889)">
+<ellipse cx="17.3333" cy="28" rx="6.66667" ry="14.6667" fill="#262626"/>
+<ellipse cx="38.6667" cy="28" rx="6.66667" ry="14.6667" fill="#262626"/>
+<g filter="url(#filter0_d_0_889)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.3333 18.6667C29.3333 21.6122 28.7364 24 28 24C27.2636 24 26.6667 21.6122 26.6667 18.6667C26.6667 15.7212 27.2636 13.3333 28 13.3333C28.7364 13.3333 29.3333 15.7212 29.3333 18.6667ZM28.0009 32C28.7368 31.9986 29.3333 30.2083 29.3333 28C29.3333 25.7909 28.7364 24 28 24C27.2636 24 26.6667 25.7909 26.6667 28C26.6667 30.2083 27.2631 31.9986 27.9991 32C27.2631 32.0019 26.6667 34.389 26.6667 37.3333C26.6667 40.2789 27.2636 42.6667 28 42.6667C28.7364 42.6667 29.3333 40.2789 29.3333 37.3333C29.3333 34.389 28.7368 32.0019 28.0009 32Z" fill="url(#paint0_linear_0_889)"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_889" x="26.6667" y="13.3333" width="2.66667" height="31.3333" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_889"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_889" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_0_889" x1="26.6667" y1="13.3333" x2="26.6667" y2="42.6667" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#F0F0F0"/>
+</linearGradient>
+</defs>
+</svg>
