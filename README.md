@@ -11,6 +11,10 @@ Functionality:
  - Current time of the city should update in real-time
  - Search city by its name
 
+## Review
+- Fork this repository and work in your repo
+- After completing the task, send your changes as a Pull Request
+
 ## Requirements
 - Use MobX as a store
 - Use CSS Modules + SCSS for styling
