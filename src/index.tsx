@@ -1,13 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './styles/index.css';
+import './styles/index.scss';
 import { HomePage } from './pages/HomePage';
+import store, { StoreContext } from 'stores';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <React.StrictMode>
-    <HomePage />
+    <StoreContext.Provider value={{ ...store }}>
+      <HomePage />
+    </StoreContext.Provider>
   </React.StrictMode>
 );
